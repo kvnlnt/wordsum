@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+
+forever start /var/www/chordynator.com/api/app.js
+
